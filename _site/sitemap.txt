@@ -1,0 +1,12 @@
+
+http://jdriordan.github.io/archive.html
+http://jdriordan.github.io/atom.xml
+http://jdriordan.github.io/categories.html
+http://jdriordan.github.io/index.html
+http://jdriordan.github.io/pages.html
+http://jdriordan.github.io/rss.xml
+http://jdriordan.github.io/sitemap.txt
+http://jdriordan.github.io/tags.html
+
+http://jdriordan.github.io/2014/02/01/new-post
+http://jdriordan.github.io/lessons/2011/12/29/jekyll-introduction
